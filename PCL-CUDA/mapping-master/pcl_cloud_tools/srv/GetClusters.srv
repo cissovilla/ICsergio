@@ -1,0 +1,4 @@
+sensor_msgs/PointCloud2 input_cloud
+---
+bool result
+pcl/PointIndices[] clusters_indices

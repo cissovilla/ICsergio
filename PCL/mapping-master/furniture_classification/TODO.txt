@@ -1,0 +1,17 @@
+
++ Disable polynomial fitting in mls
++ Decrease radius to 5 cm
++ Decrese voxel grid size to 5mm
++ estimate normals first and then downsample
++ Remove floor
++ Discard votes under floor
++ In Ransac random rotation if normal points up
++ Run 1000 iteration
+- Filter ransac hypothetis that are far from voted center
++ different window sizes and different thresholds
+
++ write clustering info into file
+
++ Add RSD and ESF and PFH and VFH features. RSD is disabled in pcl. (http://dev.pointclouds.org/issues/625)
++ Dump clusteing information
+

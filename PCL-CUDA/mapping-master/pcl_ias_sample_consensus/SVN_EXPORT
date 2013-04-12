@@ -1,0 +1,11 @@
+commit 752607b426f21b9869dacb8378717ccbb44db221
+Author: Dejan Pangercic <dejan.pangercic@cs.tum.edu>
+Date:   Sun Sep 26 22:44:27 2010 +0200
+
+    fixed Eigen -> Eigen3 issue in pcl_ias_sample_consensus
+
+commit f62349a37d073d6efb1ddbfc46c7f5783766758c
+Author: Dejan Pangercic <dejan.pangercic@cs.tum.edu>
+Date:   Mon Sep 6 16:06:01 2010 +0200
+
+    public export

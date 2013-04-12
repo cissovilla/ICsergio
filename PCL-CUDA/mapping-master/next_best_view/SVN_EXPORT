@@ -1,0 +1,11 @@
+commit cef78b4078fcde1df81ed2928f9a9218c9464c69
+Author: Dejan Pangercic <dejan.pangercic@cs.tum.edu>
+Date:   Thu Sep 23 11:46:34 2010 +0200
+
+    documentation
+
+commit f3b1573a4a7b488fb2c001ca845ba0a71fe2922a
+Author: Dejan Pangercic <dejan.pangercic@cs.tum.edu>
+Date:   Thu Sep 23 11:28:16 2010 +0200
+
+    exporting next best view

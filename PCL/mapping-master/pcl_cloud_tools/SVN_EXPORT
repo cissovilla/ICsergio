@@ -1,0 +1,17 @@
+commit 69200c6e7fadf33a320f24a9087c411ede6fc260
+Author: Dejan Pangercic <dejan.pangercic@cs.tum.edu>
+Date:   Tue Oct 5 22:01:36 2010 +0200
+
+    added sleep param between publishing of handle poses
+
+commit 7bbdfc259303e43910c859000d6cc54af3641031
+Author: Dejan Pangercic <dejan.pangercic@cs.tum.edu>
+Date:   Tue Oct 5 20:56:03 2010 +0200
+
+    node that returns the centroid pose of the handles
+
+commit 032ce9089896e3d19f9f64b47d752dfe3bdf56e6
+Author: Dejan Pangercic <dejan.pangercic@cs.tum.edu>
+Date:   Mon Oct 4 23:45:44 2010 +0200
+
+    public export

@@ -1,0 +1,19 @@
+commit 90d3474dc2e00967425fd71582fd36681c899bfc
+Author: Nikolaus Demmel <demmeln@in.tum.de>
+Date:   Mon Jul 12 09:13:18 2010 +0200
+
+    gitignore (feel free to revert if its not the right thing)
+
+commit a7b2580036858e3c6ef12f74c825f6ae8b972b73
+Author: Lorenz Mösenlechner <moesenle@in.tum.de>
+Date:   Fri Jan 22 14:01:27 2010 +0100
+
+    Fixed all CMakeLists.txt.
+    
+    hopefully finished the change from rospack to rosbuild cmake macros.
+
+commit d1bb1462b88dc487868e065daa247057a9123ad5
+Author: Dejan Pangercic <dejan.pangercic@cs.tum.edu>
+Date:   Thu Nov 19 20:50:27 2009 +0100
+
+    for public release

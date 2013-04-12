@@ -1,0 +1,19 @@
+<package>
+  <description brief="rgbd_registration">
+   This package aligns two point clouds together by combining 2D RGB feature matching and a modified Iterative Closest Point (ICP) algorithm in one "Joint Optimization" step. It is not a SLAM system, it simply aligns two point clouds at a time.
+
+  </description>
+  <author>Ross Kidson</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/rgbd_registration</url>
+
+  <depend package="pcl"/>
+  <depend package="roscpp"/>
+
+  <rosdep name="eigen"/> 
+  <depend package="opencv2"/> 
+
+</package>
+
+
